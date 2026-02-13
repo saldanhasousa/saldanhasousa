@@ -1,8 +1,14 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Saldanha Sousa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FrontEnd`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! Meu nome é Saldanha Sousa, tenho 22 anos e sou estudante universitário no INSTIC.
+
+Sou apaixonado por tecnologia, programação e resolução de problemas. Tenho grande interesse em desenvolvimento de software, especialmente na área de JavaScript e frontend.
+
+Estou sempre buscando aprender coisas novas, melhorar minhas habilidades e desenvolver projetos que me ajudem a crescer como programador. 🚀
+
+Meu objetivo é evoluir constantemente no mundo da tecnologia e contribuir com soluções criativas e inovadoras.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
